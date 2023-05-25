@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_zrtm8PsQEe2zCuS9Y5EdOw" type="EcoreTools" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_zrzGgPsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zrztkPsQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zrztkfsQEe2zCuS9Y5EdOw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_zrztmfsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Projeto/titulo"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zrztmvsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_zrztm_sQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Projeto/autor"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zrztnPsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_zrztnfsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Projeto/periodo"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zrztnvsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zrztkvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zrztk_sQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zrztlPsQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zrztlfsQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zrztlvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zrztl_sQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zrztmPsQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zrzGgfsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//Projeto"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zrzGgvsQEe2zCuS9Y5EdOw" y="146"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zr0UoPsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zr0Uo_sQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zr0UpPsQEe2zCuS9Y5EdOw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_zr0UrPsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Arquivos/nome"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr0UrfsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_zr0UrvsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Arquivos/tipo"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr0Ur_sQEe2zCuS9Y5EdOw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr0UpfsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr0UpvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr0Up_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr0UqPsQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr0UqfsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr0UqvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr0Uq_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zr0UofsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//Arquivos"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zr0UovsQEe2zCuS9Y5EdOw" x="390"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zr0UsPsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zr0Us_sQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zr07sPsQEe2zCuS9Y5EdOw" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr07sfsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr07svsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr07s_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr07tPsQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr07tfsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr07tvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr07t_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zr0UsfsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//Documento"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zr0UsvsQEe2zCuS9Y5EdOw" x="654" y="461"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zr07uPsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zr07u_sQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zr07vPsQEe2zCuS9Y5EdOw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_zr1ixPsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//DocPrincipal/titulo"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr1ixfsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_zr1ixvsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//DocPrincipal/autor"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr1ix_sQEe2zCuS9Y5EdOw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr07vfsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr07vvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr07v_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr1iwPsQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr1iwfsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr1iwvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr1iw_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zr07ufsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//DocPrincipal"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zr07uvsQEe2zCuS9Y5EdOw" x="532" y="716"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zr1iyPsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zr2J0PsQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zr2J0fsQEe2zCuS9Y5EdOw" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr2J0vsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr2J0_sQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr2J1PsQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr2J1fsQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr2J1vsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr2J1_sQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr2J2PsQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zr1iyfsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//DocSecundario"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zr1iyvsQEe2zCuS9Y5EdOw" x="642" y="846"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zr2J2fsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zr2J3PsQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zr2J3fsQEe2zCuS9Y5EdOw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_zr2w4PsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Pacote/nome"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr2w4fsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_zr2w4vsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Pacote/tipo"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr2w4_sQEe2zCuS9Y5EdOw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr2J3vsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr2J3_sQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr2J4PsQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr2J4fsQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr2J4vsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr2J4_sQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr2J5PsQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zr2J2vsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//Pacote"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zr2J2_sQEe2zCuS9Y5EdOw" x="258" y="708"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zr2w5PsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zr2w5_sQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zr2w6PsQEe2zCuS9Y5EdOw" type="5001">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr2w6fsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr2w6vsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr2w6_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr2w7PsQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr2w7fsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr2w7vsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr2w7_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zr2w5fsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//Imagem"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zr2w5vsQEe2zCuS9Y5EdOw" x="209" y="146"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zr2w8PsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zr2w8_sQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zr2w9PsQEe2zCuS9Y5EdOw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_zr3X9_sQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Bibliografia/referencias"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr3X-PsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr3X8PsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr3X8fsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr3X8vsQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr3X8_sQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr3X9PsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr3X9fsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr3X9vsQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zr2w8fsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//Bibliografia"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zr2w8vsQEe2zCuS9Y5EdOw" x="371" y="146"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zr3X-fsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zr3X_PsQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zr3X_fsQEe2zCuS9Y5EdOw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_zr3YBfsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Secao/nome"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr3YBvsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_zr3YB_sQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Secao/conteudo"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr3YCPsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr3X_vsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr3X__sQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr3YAPsQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr3YAfsQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr3YAvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr3YA_sQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr3YBPsQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zr3X-vsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//Secao"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zr3X-_sQEe2zCuS9Y5EdOw" x="876" y="426"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zr3_APsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zr3_A_sQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zr3_BPsQEe2zCuS9Y5EdOw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_zr3_DPsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Tabela/nome"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr3_DfsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_zr3_DvsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//Tabela/conteudo"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr3_D_sQEe2zCuS9Y5EdOw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr3_BfsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr3_BvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr3_B_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr3_CPsQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr3_CfsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr3_CvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr3_C_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zr3_AfsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//Tabela"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zr3_AvsQEe2zCuS9Y5EdOw" x="612" y="146"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_zr3_EPsQEe2zCuS9Y5EdOw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_zr3_E_sQEe2zCuS9Y5EdOw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_zr3_FPsQEe2zCuS9Y5EdOw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_zr4mEPsQEe2zCuS9Y5EdOw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="Processadores.ecore#//ReferenciaGeral/label"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zr4mEfsQEe2zCuS9Y5EdOw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr3_FfsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr3_FvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr3_F_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr3_GPsQEe2zCuS9Y5EdOw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_zr3_GfsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_zr3_GvsQEe2zCuS9Y5EdOw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_zr3_G_sQEe2zCuS9Y5EdOw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_zr3_EfsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="Processadores.ecore#//ReferenciaGeral"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zr3_EvsQEe2zCuS9Y5EdOw" x="628" y="315"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_zrtm8fsQEe2zCuS9Y5EdOw"/>
+  <element xmi:type="ecore:EPackage" href="Processadores.ecore#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_zr4mEvsQEe2zCuS9Y5EdOw" type="3002" source="_zrzGgPsQEe2zCuS9Y5EdOw" target="_zr0UoPsQEe2zCuS9Y5EdOw">
+    <children xmi:type="notation:Node" xmi:id="_zr4mFvsQEe2zCuS9Y5EdOw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr4mF_sQEe2zCuS9Y5EdOw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr4mGPsQEe2zCuS9Y5EdOw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr4mGfsQEe2zCuS9Y5EdOw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr4mE_sQEe2zCuS9Y5EdOw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr4mFPsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="Processadores.ecore#//Projeto/arquivos"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr4mFfsQEe2zCuS9Y5EdOw" points="[0, 0, -339, 60]$[339, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsaxkvsQEe2zCuS9Y5EdOw" id="(0.4966442953020134,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsaxk_sQEe2zCuS9Y5EdOw" id="(0.16083916083916083,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr4mGvsQEe2zCuS9Y5EdOw" type="3002" source="_zr0UsPsQEe2zCuS9Y5EdOw" target="_zr3X-fsQEe2zCuS9Y5EdOw">
+    <children xmi:type="notation:Node" xmi:id="_zr4mHvsQEe2zCuS9Y5EdOw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr4mH_sQEe2zCuS9Y5EdOw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr4mIPsQEe2zCuS9Y5EdOw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr4mIfsQEe2zCuS9Y5EdOw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr4mG_sQEe2zCuS9Y5EdOw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr4mHPsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="Processadores.ecore#//Documento/secoes"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr4mHfsQEe2zCuS9Y5EdOw" points="[0, 0, 199, 60]$[-199, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zscmwvsQEe2zCuS9Y5EdOw" id="(0.24324324324324326,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zscmw_sQEe2zCuS9Y5EdOw" id="(0.5,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr4mIvsQEe2zCuS9Y5EdOw" type="3002" source="_zr0UsPsQEe2zCuS9Y5EdOw" target="_zr3_EPsQEe2zCuS9Y5EdOw">
+    <children xmi:type="notation:Node" xmi:id="_zr4mJvsQEe2zCuS9Y5EdOw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr5NIPsQEe2zCuS9Y5EdOw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr5NIfsQEe2zCuS9Y5EdOw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr5NIvsQEe2zCuS9Y5EdOw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr4mI_sQEe2zCuS9Y5EdOw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr4mJPsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="Processadores.ecore#//Documento/referencias"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr4mJfsQEe2zCuS9Y5EdOw" points="[0, 0, 0, 83]$[0, -83, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zscmwPsQEe2zCuS9Y5EdOw" id="(0.4954954954954955,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zscmwfsQEe2zCuS9Y5EdOw" id="(0.5785714285714286,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr5NI_sQEe2zCuS9Y5EdOw" type="3003" source="_zr0UsPsQEe2zCuS9Y5EdOw" target="_zr0UoPsQEe2zCuS9Y5EdOw">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr5NJPsQEe2zCuS9Y5EdOw" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr5NJfsQEe2zCuS9Y5EdOw" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr5NJvsQEe2zCuS9Y5EdOw" points="[0, 0, 240, 375]$[0, -30, 240, 345]$[92, -30, 332, 345]$[92, -345, 332, 30]$[-240, -345, 0, 30]$[-240, -375, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsdN0PsQEe2zCuS9Y5EdOw" id="(0.7477477477477478,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsdN0fsQEe2zCuS9Y5EdOw" id="(0.7482517482517482,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr5NJ_sQEe2zCuS9Y5EdOw" type="3002" source="_zr07uPsQEe2zCuS9Y5EdOw" target="_zr1iyPsQEe2zCuS9Y5EdOw">
+    <children xmi:type="notation:Node" xmi:id="_zr5NK_sQEe2zCuS9Y5EdOw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr5NLPsQEe2zCuS9Y5EdOw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr5NLfsQEe2zCuS9Y5EdOw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr5NLvsQEe2zCuS9Y5EdOw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr5NKPsQEe2zCuS9Y5EdOw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr5NKfsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="Processadores.ecore#//DocPrincipal/docSecundario"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr5NKvsQEe2zCuS9Y5EdOw" points="[0, 1, -80, -86]$[0, 87, -80, 0]$[77, 87, -3, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsbYpPsQEe2zCuS9Y5EdOw" id="(0.24285714285714285,0.9883720930232558)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsbYpfsQEe2zCuS9Y5EdOw" id="(0.029411764705882353,0.8571428571428571)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr5NL_sQEe2zCuS9Y5EdOw" type="3002" source="_zr07uPsQEe2zCuS9Y5EdOw" target="_zr2J2fsQEe2zCuS9Y5EdOw">
+    <children xmi:type="notation:Node" xmi:id="_zr5NM_sQEe2zCuS9Y5EdOw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr5NNPsQEe2zCuS9Y5EdOw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr5NNfsQEe2zCuS9Y5EdOw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr5NNvsQEe2zCuS9Y5EdOw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr5NMPsQEe2zCuS9Y5EdOw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr5NMfsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="Processadores.ecore#//DocPrincipal/pacote"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr5NMvsQEe2zCuS9Y5EdOw" points="[0, 0, 168, 60]$[-168, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsbYovsQEe2zCuS9Y5EdOw" id="(0.22857142857142856,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsbYo_sQEe2zCuS9Y5EdOw" id="(0.951048951048951,0.11627906976744186)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr50MPsQEe2zCuS9Y5EdOw" type="3003" source="_zr07uPsQEe2zCuS9Y5EdOw" target="_zr0UsPsQEe2zCuS9Y5EdOw">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr50MfsQEe2zCuS9Y5EdOw" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr50MvsQEe2zCuS9Y5EdOw" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr50M_sQEe2zCuS9Y5EdOw" points="[0, 0, -75, 206]$[0, -30, -75, 176]$[75, -30, 0, 176]$[75, -206, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsdN0vsQEe2zCuS9Y5EdOw" id="(0.7285714285714285,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsdN0_sQEe2zCuS9Y5EdOw" id="(0.4954954954954955,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr50NPsQEe2zCuS9Y5EdOw" type="3003" source="_zr1iyPsQEe2zCuS9Y5EdOw" target="_zr0UsPsQEe2zCuS9Y5EdOw">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr50NfsQEe2zCuS9Y5EdOw" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr50NvsQEe2zCuS9Y5EdOw" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr50N_sQEe2zCuS9Y5EdOw" points="[-10, -7, 81, 338]$[-10, -61, 81, 284]$[-32, -61, 59, 284]$[-32, -345, 59, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zscmxPsQEe2zCuS9Y5EdOw" id="(0.9632352941176471,0.16326530612244897)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zscmxfsQEe2zCuS9Y5EdOw" id="(0.24324324324324326,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr50OPsQEe2zCuS9Y5EdOw" type="3003" source="_zr2w5PsQEe2zCuS9Y5EdOw" target="_zr0UoPsQEe2zCuS9Y5EdOw">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr50OfsQEe2zCuS9Y5EdOw" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr50OvsQEe2zCuS9Y5EdOw" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr50O_sQEe2zCuS9Y5EdOw" points="[0, 0, -177, 60]$[0, -30, -177, 30]$[177, -30, 0, 30]$[177, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsaxkPsQEe2zCuS9Y5EdOw" id="(0.5,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsaxkfsQEe2zCuS9Y5EdOw" id="(0.32867132867132864,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr50PPsQEe2zCuS9Y5EdOw" type="3003" source="_zr2w8PsQEe2zCuS9Y5EdOw" target="_zr0UoPsQEe2zCuS9Y5EdOw">
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr50PfsQEe2zCuS9Y5EdOw" routing="Rectilinear" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr50PvsQEe2zCuS9Y5EdOw" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr50P_sQEe2zCuS9Y5EdOw" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsbYoPsQEe2zCuS9Y5EdOw" id="(0.4972375690607735,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsbYofsQEe2zCuS9Y5EdOw" id="(0.4965034965034965,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr50QPsQEe2zCuS9Y5EdOw" type="3002" source="_zr3X-fsQEe2zCuS9Y5EdOw" target="_zr3X-fsQEe2zCuS9Y5EdOw">
+    <children xmi:type="notation:Node" xmi:id="_zr6bQPsQEe2zCuS9Y5EdOw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr6bQfsQEe2zCuS9Y5EdOw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr6bQvsQEe2zCuS9Y5EdOw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr6bQ_sQEe2zCuS9Y5EdOw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr50QfsQEe2zCuS9Y5EdOw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr50QvsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="Processadores.ecore#//Secao/secao"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr50Q_sQEe2zCuS9Y5EdOw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr6bRPsQEe2zCuS9Y5EdOw" type="3002" source="_zr3_EPsQEe2zCuS9Y5EdOw" target="_zr2w5PsQEe2zCuS9Y5EdOw">
+    <children xmi:type="notation:Node" xmi:id="_zr6bSPsQEe2zCuS9Y5EdOw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr6bSfsQEe2zCuS9Y5EdOw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr6bSvsQEe2zCuS9Y5EdOw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr6bS_sQEe2zCuS9Y5EdOw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr6bRfsQEe2zCuS9Y5EdOw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr6bRvsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="Processadores.ecore#//ReferenciaGeral/imagem"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr6bR_sQEe2zCuS9Y5EdOw" points="[0, 0, 391, 120]$[-350, -61, 41, 59]$[-391, -120, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsb_sPsQEe2zCuS9Y5EdOw" id="(0.16428571428571428,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsb_sfsQEe2zCuS9Y5EdOw" id="(0.5,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr6bTPsQEe2zCuS9Y5EdOw" type="3002" source="_zr3_EPsQEe2zCuS9Y5EdOw" target="_zr3_APsQEe2zCuS9Y5EdOw">
+    <children xmi:type="notation:Node" xmi:id="_zr6bUPsQEe2zCuS9Y5EdOw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr6bUfsQEe2zCuS9Y5EdOw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr6bUvsQEe2zCuS9Y5EdOw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr6bU_sQEe2zCuS9Y5EdOw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr6bTfsQEe2zCuS9Y5EdOw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr6bTvsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="Processadores.ecore#//ReferenciaGeral/tabela"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr6bT_sQEe2zCuS9Y5EdOw" points="[0, 0, 0, 83]$[0, -83, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsbYpvsQEe2zCuS9Y5EdOw" id="(0.5,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsbYp_sQEe2zCuS9Y5EdOw" id="(0.5,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_zr7CUPsQEe2zCuS9Y5EdOw" type="3002" source="_zr3_EPsQEe2zCuS9Y5EdOw" target="_zr2w8PsQEe2zCuS9Y5EdOw">
+    <children xmi:type="notation:Node" xmi:id="_zr7CVPsQEe2zCuS9Y5EdOw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr7CVfsQEe2zCuS9Y5EdOw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_zr7CVvsQEe2zCuS9Y5EdOw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_zr7CV_sQEe2zCuS9Y5EdOw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_zr7CUfsQEe2zCuS9Y5EdOw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_zr7CUvsQEe2zCuS9Y5EdOw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="Processadores.ecore#//ReferenciaGeral/bibliografia"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zr7CU_sQEe2zCuS9Y5EdOw" points="[0, 0, 213, 106]$[-152, -61, 61, 45]$[-213, -106, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsb_svsQEe2zCuS9Y5EdOw" id="(0.32857142857142857,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zsb_s_sQEe2zCuS9Y5EdOw" id="(0.4972375690607735,1.0)"/>
+  </edges>
+</notation:Diagram>
