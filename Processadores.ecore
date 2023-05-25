@@ -12,12 +12,33 @@
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="tipo" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
   </eClassifiers>
   <eClassifiers xsi:type="ecore:EClass" name="Documento"/>
-  <eClassifiers xsi:type="ecore:EClass" name="DocPrincipal"/>
+  <eClassifiers xsi:type="ecore:EClass" name="DocPrincipal">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="titulo" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="autor" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="docSecundario" eType="#//DocSecundario"/>
+  </eClassifiers>
   <eClassifiers xsi:type="ecore:EClass" name="DocSecundario"/>
-  <eClassifiers xsi:type="ecore:EClass" name="Pacote"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Pacote">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="nome" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="tipo" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
   <eClassifiers xsi:type="ecore:EClass" name="Imagem"/>
-  <eClassifiers xsi:type="ecore:EClass" name="Bibliografia"/>
-  <eClassifiers xsi:type="ecore:EClass" name="Secao"/>
-  <eClassifiers xsi:type="ecore:EClass" name="Tabela"/>
-  <eClassifiers xsi:type="ecore:EClass" name="ReferenciaGeral"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Bibliografia">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="referencias" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Secao">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="nome" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="conteudo" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="secao" eType="#//Secao"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Tabela">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="nome" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="conteudo" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="ReferenciaGeral">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="label" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="imagem" eType="#//Imagem"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="tabela" eType="#//Tabela"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="bibliografia" eType="#//Bibliografia"/>
+  </eClassifiers>
 </ecore:EPackage>
