@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="Processadores">
+  <eClassifiers xsi:type="ecore:EClass" name="Projeto">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="titulo" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="autor" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="periodo" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EDate"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Arquivos">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="nome" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="tipo" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Documento"/>
+  <eClassifiers xsi:type="ecore:EClass" name="DocPrincipal"/>
+  <eClassifiers xsi:type="ecore:EClass" name="DocSecundario"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Pacote"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Imagem"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Bibliografia"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Secao"/>
+  <eClassifiers xsi:type="ecore:EClass" name="Tabela"/>
+  <eClassifiers xsi:type="ecore:EClass" name="ReferenciaGeral"/>
+</ecore:EPackage>
